@@ -4,9 +4,9 @@
 ## 🎥 ตัวอย่างแอปพลิเคชัน
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/peerapattop/elder-care/raw/main/assets/home1.png" width="200" />
-  <img src="https://github.com/peerapattop/elder-care/raw/main/assets/home2.png" width="200" />
-  <img src="https://github.com/peerapattop/elder-care/raw/main/assets/home3.png" width="200" />
+  <img src="https://github.com/peerapattop/todo-flutter/raw/main/assets/home1.png" width="200" />
+  <img src="https://github.com/peerapattop/todo-flutter/raw/main/assets/home2.png" width="200" />
+  <img src="https://github.com/peerapattop/todo-flutter/raw/main/assets/home3.png" width="200" />
 </div>
 
 ## 📥 ดาวน์โหลดแอปพลิเคชัน
