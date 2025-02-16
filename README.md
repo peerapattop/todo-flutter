@@ -1,16 +1,14 @@
-# todo_mobile
+# ToDo
+เป็นแอปพลิเคชัน สร้างรายการสิ่งที่ต้องทำโดยการใช้ State Management ด้วย Provider ด้วย Flutter
 
-A new Flutter project.
+## 🎥 ตัวอย่างแอปพลิเคชัน
 
-## Getting Started
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/peerapattop/elder-care/raw/main/assets/home1.png" width="200" />
+  <img src="https://github.com/peerapattop/elder-care/raw/main/assets/home2.png" width="200" />
+  <img src="https://github.com/peerapattop/elder-care/raw/main/assets/home3.png" width="200" />
+</div>
 
-This project is a starting point for a Flutter application.
+## 📥 ดาวน์โหลดแอปพลิเคชัน
+https://drive.google.com/file/d/1I-RKi8MnTULBPq7Tq5vW0EpLCQ_WsdFF/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
